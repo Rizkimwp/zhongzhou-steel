@@ -71,7 +71,7 @@ export default function FramerLanding() {
           />
         </motion.div>
 
-        <div className="relative max-w-6xl mx-auto text-center z-10">
+        <div className="relative max-w-6xl mx-auto text-center z-10 mt-30 md:mt-10">
           <motion.div
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
